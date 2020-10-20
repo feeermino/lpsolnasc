@@ -1,0 +1,71 @@
+@import colors
+  
+.blueCta
+  padding: 15px 35px
+  border-radius: 26px
+  font-size: 18px
+  background-color: $blue
+  color: $white
+  display: flex
+  justify-content: space-between
+  align-items: center
+  cursor: pointer
+  transition: all .3s
+
+  span
+    background: none
+
+  .arrowWrapperR
+    overflow: hidden
+    width: 0px
+    height: 17px
+    transition: all .3s
+    margin-left: 0
+
+    .arrowR
+      transform: translateX(-10px)
+      transition: all .3s
+    
+
+.blueCta:hover .arrowWrapperR
+  width: 9px
+  margin-left: 10px
+
+.blueCta:hover .arrowR
+  transform: translateX(0)
+
+
+.yellowCta
+  padding: 15px 35px
+  border-radius: 26px
+  font-size: 18px
+  background: none
+  color: $yellow
+  border: 1px solid $yellow
+  display: flex
+  justify-content: space-between
+  align-items: center
+  cursor: pointer
+  transition: all .3s
+
+  span
+    background: none
+
+  .arrowWrapperDown
+    overflow: hidden
+    width: 0px
+    height: 9px
+    transition: all .3s
+    margin-left: 0
+
+    .arrowDown
+      transform: translateX(-10px) translateY(-10px)
+      transition: all .3s
+    
+
+.yellowCta:hover .arrowWrapperDown
+  width: 17px
+  margin-left: 10px
+
+.yellowCta:hover .arrowDown
+  transform: translateX(0) translateY(-10px)
