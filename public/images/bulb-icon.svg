@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49.065" height="78.333" viewBox="0 0 49.065 78.333">
+  <g id="bulb-icon" transform="translate(-1598.912 -2517.759)">
+    <rect id="Retângulo_10" data-name="Retângulo 10" width="22.312" height="17.849" transform="translate(1612.288 2577.744)" fill="none" stroke="#347ae1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Caminho_75" data-name="Caminho 75" d="M1623.445,2518.259a24.032,24.032,0,0,0-24.033,24.033c0,8.01,6.934,31.085,12.958,35.452h22.148c6.025-4.367,12.959-27.442,12.959-35.452A24.033,24.033,0,0,0,1623.445,2518.259Z" fill="none" stroke="#347ae1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="Grupo_46" data-name="Grupo 46">
+      <line id="Linha_16" data-name="Linha 16" x1="5.778" y1="23.04" transform="translate(1613.885 2554.703)" fill="none" stroke="#347ae1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Linha_17" data-name="Linha 17" y1="23.04" x2="5.778" transform="translate(1627.227 2554.703)" fill="none" stroke="#347ae1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <g id="Grupo_47" data-name="Grupo 47">
+      <line id="Linha_18" data-name="Linha 18" y2="9.922" transform="translate(1619.165 2548.001)" fill="none" stroke="#347ae1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Linha_19" data-name="Linha 19" y2="9.922" transform="translate(1623.445 2548.001)" fill="none" stroke="#347ae1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Linha_20" data-name="Linha 20" y2="9.922" transform="translate(1627.724 2548.001)" fill="none" stroke="#347ae1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

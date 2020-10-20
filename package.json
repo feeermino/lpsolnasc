@@ -1,0 +1,29 @@
+{
+  "name": "sol-nascente",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/styled-components": "^5.1.4",
+    "@zeit/next-sass": "^1.0.1",
+    "formik": "^2.2.0",
+    "next": "9.5.5",
+    "next-images": "^1.6.0",
+    "next-on-netlify": "^2.5.1",
+    "node-sass": "^4.14.1",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-indiana-drag-scroll": "^1.7.2",
+    "react-scroll-horizontal": "^1.6.6",
+    "styled-components": "^5.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.11.8",
+    "@types/react": "^16.9.52",
+    "typescript": "^4.0.3"
+  }
+}
